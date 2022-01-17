@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ... Web dev
 - 🤔 I’m looking for help with ... Data structure and algorithm
 - 💬 Ask me about ... Programming 
-- 📫 How to reach me: ...[Gmail](https://sonustein.github.io/cv/)
+- 📫 How to reach me: ...[website](https://sonustein.github.io/cv/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am noob
 
